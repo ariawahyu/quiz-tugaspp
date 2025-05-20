@@ -4,43 +4,43 @@ const questions = [
         question: "Setelah membaca kronologi pemaksaan jilbab di SMA Negeri 1 Sumberlawang, manakah dari berikut ini yang paling tepat menggambarkan bentuk pelanggaran hak yang dialami S?",
         options: ["Pelanggaran hak atas kebebasan berpendapat", "Pelanggaran hak atas kebebasan beragama", "Pelanggaran hak atas memperoleh pendidikan", "Pelanggaran hak atas privasi"],
         correct: 1,
-        time: 15
+        time: 120
     },
     {
         question: "Gubernur Jawa Tengah menyatakan siap memecat guru yang mengulangi perundungan. Menurut prinsip penyelesaian konflik berbasis restorative justice, tindakan apa yang seharusnya lebih prioritas sebelum pemecatan?",
         options: ["Hukuman administratif tanpa pembinaan", "Pembentukan kelompok kerja antiperundungan di provinsi", "Mediasi dan rehabilitasi hubungan antara guru, korban, dan orang tua", "Pelaporan langsung ke Dewan Pendidikan Nasional"],
         correct: 2,
-        time: 20
+        time: 120
     },
     {
         question: "Berdasarkan catatan KPAI tentang beragam kasus pemaksaan dan pelarangan jilbab di berbagai daerah, kebijakan pemerintah pusat manakah yang paling efektif mencegah pelanggaran serupa terjadi?",
         options: ["Mewajibkan semua sekolah negeri menerbitkan peraturan seragam tunggal", "Menghapus seluruh aturan lokal tentang jilbab dan menyerahkan sepenuhnya pada keputusan sekolah", "Mengeluarkan regulasi nasional yang melarang wajib jilbab maupun larangan jilbab di sekolah", "Menyerahkan penyusunan aturan kepada DPRD provinsi agar lebih adaptif"],
         correct: 2,
-        time: 25
+        time: 120
     },
     {
         question: "Ketika guru bertanya “Agamamu apa? Islam kok nggak pakai jilbab?”, hal ini mencerminkan pelanggaran kewajiban negara atau warga negara manakah?",
         options: ["Kelalaian warga negara dalam menghargai perbedaan", "Kegagalan guru sebagai aparatur negara menegakkan netralitas", "Kekurangan regulasi tentang seragam sekolah", "Pelanggaran kewajiban siswa untuk menaati peraturan sekolah"],
         correct: 1,
-        time: 25
+        time: 120
     },
     {
         question: "Jika Anda ditunjuk sebagai konsultan KPAI untuk menurunkan angka perundungan berbasis paksaan agama, intervensi manakah yang paling tepat dilakukan?",
         options: ["Pelatihan toleransi agama bagi seluruh tenaga kependidikan dan OSIS", "Pemasangan kamera pengawas di setiap ruang kelas", "Penambahan jam pelajaran Pendidikan Agama Islam", "Penerapan tes religiositas bagi calon siswa baru"],
         correct: 0,
-        time: 25
+        time: 120
     },
     {
         question: "UndangUndang Dasar 1945 menjamin kebebasan beragama. Manakah pasal UUD 1945 yang menegaskan hal ini?",
         options: ["Pasal 28E ayat (1)", "Pasal 29 ayat (2)", "Pasal 28A", "Pasal 31 ayat (1)"],
         correct: 1,
-        time: 25
+        time: 120
     },
     {
         question: "S mempertimbangkan pindah sekolah karena trauma. Jika Anda menjadi konselor sekolah, strategi mana yang paling holistik untuk memulihkan kondisi psikologis S sekaligus mencegah kasus lanjutan?",
         options: ["Memberikan konseling individual dan membentuk grup peer support di sekolah", "Menyarankan pindah ke sekolah swasta demi suasana baru", "Mengawasi ketat semua interaksi siswa oleh CCTV", "Mengganti seluruh jajaran guru BK dan kepsek"],
         correct: 0,
-        time: 25
+        time: 120
     },
 ];
 
